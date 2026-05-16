@@ -2,6 +2,7 @@
 
 ## Title and Purpose
 **Application Title:** Your Way Vacation Solutions (Hosted Release)
+
 **Purpose:** This repository is dedicated to hosting the compiled, installable `.apk` release of the *Your Way Vacation Solutions* Android application for the D424 Software Engineering Capstone. This mobile application is a comprehensive vacation planning tool designed to help users manage travel itineraries, schedule excursions, generate data reports, and set system notifications. 
 
 ## Installation Instructions
